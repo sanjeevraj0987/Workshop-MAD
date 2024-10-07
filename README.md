@@ -256,6 +256,12 @@ public class MainActivity2 extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT:
+![Screenshot 2024-10-07 180842](https://github.com/user-attachments/assets/095863f3-4234-4045-9c3f-38c063bc4f28)
+![Screenshot 2024-10-07 181149](https://github.com/user-attachments/assets/2e469f49-4f62-4cdd-b331-097fa4663614)
+![Screenshot 2024-10-07 181219](https://github.com/user-attachments/assets/97940e21-cd0a-4768-8a5e-a43372bb24f1)
+
+
+
 
 
 ## RESULT:
